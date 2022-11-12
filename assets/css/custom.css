@@ -1,0 +1,151 @@
+#honolulu {
+    background-color: dimgray;
+}
+
+section {
+    margin: 1em;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+#p-start {
+    margin: 1rem;
+    font-size: 1.6vw;
+    color: #8809a1;
+}
+
+#p-end {
+    margin: 1rem;
+}
+
+
+
+#p-peel {
+    margin: 1rem;
+    font-size: 1.6vw;
+    color: #180440 ;
+}
+
+#btn-peel {
+  color: rgb(204, 204, 204) ;
+  background-color: #8809a1;
+}
+
+#p-pad {
+  margin: 1rem;
+  color: #ccc ;
+  font-size: 1.9vw;
+}
+
+#btn-pad {
+  color: #ccc(204, 10, 10) ;
+  background-color: #180440;
+  font-size: 2vw;
+}
+
+#title-hial {
+  font-size: 3.8vw;
+}
+
+#p-hial {
+  color: #ccc;
+  margin-right: 1em;
+  font-size: 1.9vw;
+}
+
+#btn-hial {
+  font-size: 2.1vw;
+  color: #ccc ;
+  background-color: #8809a1;
+}
+
+button{
+    
+    height:40px; 
+    width:400px; 
+    margin: -10px -50px; 
+    position:static;
+    top:50%; 
+    left:50%;
+}
+
+/*
+    Estilos del Formulario
+*/
+
+#p-tit-form {
+    color: rgb(7, 156, 194);
+    font-size: xx-large;
+}
+
+#form-section {
+    background-color: #bdc3c7;
+    padding: 1rem;
+}
+
+#footer {
+    background-color: #272829;
+    color: azure;
+}
+
+#nav-it {
+    color: #d5d9db;
+    font-size: 15px;
+    padding: 0px 10px;
+}
+
+#nav-it:hover {
+    color: #1ca123;
+}
+
+.col {
+    padding-top: 2px;
+}
+
+#m2:hover {
+    color: red;
+}
+
+#m2 {
+    color: blue;
+}
+
+#h3-peel {
+    margin: 1rem;
+    color: black;
+}
+
+#title-conf {
+    color:  #f7f2f8 ;
+    font-size: 20px ;
+    padding: 0px 40px;
+}
+
+
+
+
+
+#cardEst {
+    border-color: #017bff;
+    margin-right: 0px 250px;
+    
+}
+
+#cardTra {
+    
+    border-color: #17a2b8;
+    margin-left : 0px 100px;
+    
+}
+
+
+#cardJun {
+    border-color: #fec007;
+    margin-left: 0px;
+}
+    
+.LastNameInput{
+    
+}
